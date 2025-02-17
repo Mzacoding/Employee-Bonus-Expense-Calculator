@@ -1,4 +1,4 @@
-
+I will add exceptions and session handling later. I will also add EJB later
 
 Employee Bonus Expense Calculator
 
